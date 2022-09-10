@@ -1,0 +1,22 @@
+{
+  "name": "p1-node",
+  "version": "1.0.0",
+  "description": "practica de git y node con npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterDjmov/p1-node.git"
+  },
+  "author": "leo loyola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasterDjmov/p1-node/issues"
+  },
+  "homepage": "https://github.com/MasterDjmov/p1-node#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
